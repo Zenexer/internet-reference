@@ -1,5 +1,5 @@
 | Sym |     Key     | Notes |
-| :-: | :---------- | :---- |
+|:---:|:-----------:|:------|
 | ⌘/ | Command     | Newer keyboards and OS versions use former
 |  ⎋  | Escape      |
 | ⏏/ | Eject       | Former is Unicode-official; latter is private use
