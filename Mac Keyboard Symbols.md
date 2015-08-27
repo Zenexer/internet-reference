@@ -1,6 +1,6 @@
 # Modifiers #
 
-When a key combination is displayed, the modifiers are written in the order presented here.  For example, <kbd>Control<kbd> + <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>Q</kbd> would be written as <kbd>⌃⌥⇧⌘Q</kbd>.
+When a key combination is displayed, the modifiers are written in the order presented here.  For example, <kbd>Control</kbd> + <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>Q</kbd> would be written as <kbd>⌃⌥⇧⌘Q</kbd>.
 
 | Sym | Key         | Alt |
 |:---:|:------------|:---:|
