@@ -1,5 +1,5 @@
 | Symbol | Description |
-+ =----= + =---------- +
+| :----: | :---------- |
 |   ⌘/  | Command
 |   ⎋    | Escape
 |   ⏏/  | Eject
