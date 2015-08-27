@@ -105,11 +105,11 @@ These are the official Unicode symbol mappings published by Apple.
 | F13 | U+F861 F 1 3 | 0x87 | F13
 | F14 | U+F861 F 1 4 | 0x88 | F14
 | F15 | U+F861 F 1 5 | 0x89 | F15
-| F16 | U+F861 F 1 6 | 0x8F | F16
-| F17 | U+F861 F 1 7 | 0x8F | F17
-| F18 | U+F861 F 1 8 | 0x8F | F18
-| F19 | U+F861 F 1 9 | 0x8F | F19
-| F20 | U+F861 F 2 0 | 0x8F | F20
+| F16 | U+F861 F 1 6 |      | F16
+| F17 | U+F861 F 1 7 |      | F17
+| F18 | U+F861 F 1 8 |      | F18
+| F19 | U+F861 F 1 9 |      | F19
+| F20 | U+F861 F 2 0 |      | F20
 |  | U+F802  | 0x0F |
 | ✓ | U+2713  | 0x12 |
 | ◆ | U+25C6  | 0x13 |
