@@ -43,7 +43,7 @@ There is also a **Fn** modifier on modern Mac keyboards.  Typically this isn't s
 |  ␣  | Space       |  ␢  |
 |  ⇭  | Num lock    |     |
 
-The alternate eject symbol is from a Unicode private use region.  Apple designates it for use with mapping to/from the Apple Keyboard encoding.  Ideally, the official Unicode variant should be used instead, as it will be compatible with fonts on other platforms.  ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT
+The alternate eject symbol is from a Unicode private use region.  Apple designates it for use with mapping to/from the Mac OS Keyboard encoding.  Ideally, the official Unicode variant should be used instead, as it will be compatible with fonts on other platforms.  ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT
 
 The click symbol is private a Unicode private use region and is likely incompatible with other platforms.
 
