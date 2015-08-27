@@ -54,12 +54,12 @@ c:         | Cute smile
 -.-        | Angry stare ("not amused")
 -_-        | Angry stare ("not amused")
 ;_;        | Crying
->:)        | Evil grin
+\>:)        | Evil grin
 :]         | Robot smile
 :}         | Devious smile
 :|         | Serious face
->:(        | Angry
->:|        | Angry
+\>:(        | Angry
+\>:|        | Angry
 -.^        | Raised eyebrow
 -_^        | Raised eyebrow
 8)         | Nerdy/geeky face
@@ -71,4 +71,4 @@ Proper emoji use non-Latin characters to create complex, detailed faces.  There 
 
 Emoji      | Description
 :---------:|:-----------
-¯\_(ツ)_/¯  | Shrug
+¯\\_(ツ)_/¯  | Shrug
