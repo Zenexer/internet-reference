@@ -35,4 +35,4 @@ When a key combination is displayed, the modifiers are written in the order pres
 |    | Click       |     |
 |  ⌧  | Clear       |     |
 |  ⎵  | Space       |  ␢  |
-|  ⇭  | Numlock     |     |
+|  ⇭  | Num lock    |     |
