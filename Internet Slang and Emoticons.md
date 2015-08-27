@@ -57,9 +57,9 @@ c:         | Cute smile
 \>:)        | Evil grin
 :]         | Robot smile
 :}         | Devious smile
-:|         | Serious face
+:\|         | Serious face
 \>:(        | Angry
-\>:|        | Angry
+\>:\|        | Angry
 -.^        | Raised eyebrow
 -_^        | Raised eyebrow
 8)         | Nerdy/geeky face
