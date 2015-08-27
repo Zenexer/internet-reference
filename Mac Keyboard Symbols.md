@@ -1,8 +1,8 @@
 | Symbol | Description     | Notes |
 | :----: | :-------------- | :---- |
-|   ⌘/  | Command         | Newer keyboards and OS versions use former; latter is older
+|   ⌘/  | Command         | Newer keyboards and OS versions use former
 |   ⎋    | Escape          |
-|   ⏏/  | Eject           | Former is Unicode eject symbol; latter is private use
+|   ⏏/  | Eject           | Former is Unicode-official; latter is private use
 |   ⌥    | Option          |
 |   ⌃    | Control         |
 |   ⌦    | Delete forward  |
