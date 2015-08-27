@@ -20,28 +20,28 @@ There is also a **Fn** modifier on modern Mac keyboards.  Typically this isn't s
 
 | Sym | Key         | Alt |
 |:---:|:------------|:---:|
-|  ⎋  | Escape      |     |
-|  ⏏  | Eject       |    |
-|  ⌦  | Delete fwd  |     |
-|  ⌫  | Delete      |     |
-|  ⇪  | Caps lock   |     |
-|  ←  | Left        |     |
-|  →  | Right       |     |
-|  ↑  | Up          |     |
-|  ↓  | Down        |     |
-|  ↩  | Return      |     |
-|  ❘⃝ | Power       |     |
-|  ⇞  | Page up     |     |
-|  ⇟  | Page down   |     |
-|  ⇤  | Back tab    |     |
-|  ⇥  | Tab         |     |
-|  ↘  | End         |     |
-|  ↖  | Home        |     |
-|  ⌤  | Enter       |  ⌅  |
-|    | Click       |     |
-|  ⌧  | Clear       |     |
-|  ␣  | Space       |  ␢  |
-|  ⇭  | Num lock    |     |
+|  ⎋  | Escape       |     |
+|  ⏏  | Eject        |    |
+|  ⌦  | Delete fwd   |     |
+|  ⌫  | Delete       |     |
+|  ⇪  | Caps lock    |     |
+|  ←  | Left         |     |
+|  →  | Right        |     |
+|  ↑  | Up           |     |
+|  ↓  | Down         |     |
+|  ↩  | Return       |     |
+|  ❘⃝ | Power        |     |
+|  ⇞  | Page up      |     |
+|  ⇟  | Page down    |     |
+|  ⇤  | Back tab     |     |
+|  ⇥  | Tab          |     |
+|  ↘  | End          |     |
+|  ↖  | Home         |     |
+|  ⌤  | Enter        |  ⌅  |
+|    | Context menu |     |
+|  ⌧  | Clear        |     |
+|  ␣  | Space        |  ␢  |
+|  ⇭  | Num lock     |     |
 
 The alternate eject symbol is from a Unicode private use region.  Apple designates it for use with mapping to/from the Mac OS Keyboard encoding.  Ideally, the official Unicode variant should be used instead, as it will be compatible with fonts on other platforms.  ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT
 
