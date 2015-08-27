@@ -1,8 +1,8 @@
 | Symbol | Description     | Notes |
 | :----: | :-------------- | :---- |
-|   ⌘/  | Command         | The Apple symbol is older; newer keyboards and OS versions opt for the hash-like symbol.
+|   ⌘/  | Command         | Newer keyboards and OS versions use former; latter is older
 |   ⎋    | Escape          |
-|   ⏏/  | Eject           | The first is the standard Unicode eject symbol; the second is Apple's private-use eject symbol.
+|   ⏏/  | Eject           | Former is Unicode eject symbol; latter is private use
 |   ⌥    | Option          |
 |   ⌃    | Control         |
 |   ⌦    | Delete forward  |
@@ -12,7 +12,7 @@
 |   →    | Right           |
 |   ↑    | Up              |
 |   ↓    | Down            |
-|   ↩    | Return          | This is at odds with Unicode's official return symbol.
+|   ↩    | Return          | At odds with Unicode's official return symbol
 |   ⌽    | Power           |
 |   ⇞    | Page up         |
 |   ⇟    | Page down       |
@@ -20,8 +20,8 @@
 |   ⇥    | Tab             |
 |   ↘    | End             |
 |   ↖    | Home            |
-|   ⌤/⌅  | Enter           | The former seems to be more common.
-|      | Click           | This is a Unicode private use symbol.
+|   ⌤/⌅  | Enter           | Latter is incorrect, but seen sometimes
+|      | Click           | Unicode private use symbol
 |   ⌧    | Clear           |
 |   ⎵    | Space           |
 |   ⇭    | Numlock         |
