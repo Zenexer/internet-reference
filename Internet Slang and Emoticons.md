@@ -54,21 +54,22 @@ c:         | Cute smile
 -.-        | Angry stare ("not amused")
 -_-        | Angry stare ("not amused")
 ;_;        | Crying
-\>:)        | Evil grin
+\>:)       | Evil grin
 :]         | Robot smile
 :}         | Devious smile
-:\|         | Serious face
-\>:(        | Angry
-\>:\|        | Angry
+:\|        | Serious face
+\>:(       | Angry
+\>:\|      | Angry
 -.^        | Raised eyebrow
 -_^        | Raised eyebrow
 8)         | Nerdy/geeky face
 B)         | Cool face, with shades
+<3         | Heart
 
 ## Emoji ##
 
 Proper emoji use non-Latin characters to create complex, detailed faces.  There are a lot of combinations; I'll only list emoji that I see often here.
 
-Emoji      | Description
-:---------:|:-----------
+Emoji       | Description
+:----------:|:-----------
 ¯\\_(ツ)_/¯  | Shrug
