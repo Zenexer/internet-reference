@@ -10,6 +10,8 @@ k        | kk              | Very old | Yes        | "Okay"
 omw      |                 | Old      | Yes        | "On my way"
 smh      |                 | New      | Yes        | "Shake my head"
 tfw      |                 | New      | Yes        | "That feeling when"
+mfw      |                 | New      | Yes        | "My feeling when"
+tmw      |                 | New      | Yes        | "That moment when"
 TIL      |                 | New      | Yes        | "Today I learned"
 bae      |                 | New      | Yes        | Informal, often sarcastic substitute for "baby"
 bb       |                 | Old/New  | Yes        | "Baby" / "Be back"
@@ -27,8 +29,21 @@ m8       |                 | Old      | Yes        | "Mate"
 3cool5u  |                 | New      | Yes        | "Too cool for you" (from "2cool4u")
 leet     | l33t, 1337      | Very old | Yes        | Slang for "elite"
 dank     |                 | New      | Yes        | Similar to "cool"
-wot      | wat             | Old      | Yes        | "What"
+wot      | wat             | Old      | Yes        | "What"; often meant to sound stupid
 btw      |                 | Very old | Yes        | "By the way"
+omg      | omfg            | Very old | Yes        | "Oh my god"
+inb4     |                 | Old      | Yes        | "In before"; prefixes a prediction
+ikr      |                 | Old      | Yes        | "I know, right?"
+guiz     |                 | Old      | Yes        | Slang for "guiz"; meant to sound stupid
+idk      | idfk            | Very old | Yes        | "I don't know"
+idgaf    |                 | Old      | Yes        | "I don't give a fuck"
+omg      | omfg            | Very old | Yes        | "Oh my god"
+afaik    |                 | Old      | Yes        | "As far as I know"
+cba      |                 | Old      | Yes        | "Can't be arsed"
+iirc     |                 | Old      | Yes        | "If I recall correctly"
+jk       |                 | Very old | Yes        | "Just kidding"
+kappa    |                 | New      | Yes        | Sarcasm
+/s       |                 | New      | Yes        | Sarcasm
 
 
 # Emoticons #
@@ -65,6 +80,7 @@ c:         | Cute smile
 8)         | Nerdy/geeky face
 B)         | Cool face, with shades
 <3         | Heart
+xD         | Cringe-smile
 
 ## Emoji ##
 
