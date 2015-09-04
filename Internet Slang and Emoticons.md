@@ -54,7 +54,7 @@ atw      |                 | Very old | Rare       | "All the way"; expresses ap
 w00t     | woot            | Old      | No         | Exclamation of joy
 lrl      |                 | New      | Rare       | "Laughing really loudly"
 pleb     | plebs           | New      | Yes        | "Plebian(s)"; normal person, conformist
-kthx     | kthxbai         | Old      | Yes        | "'kay-thanks(-bye)"; firm ending to statement
+kthx     | kthxbai         | Old      | Yes        | "'kay-thanks(-bye)"; implies firmness
 bc       |                 | Old      | Yes        | "Because"
 ik       |                 | Old      | Yes        | "I know"
 wtg      | w2g             | Old      | Rare       | "Way to go"
