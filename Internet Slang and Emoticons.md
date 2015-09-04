@@ -52,6 +52,7 @@ ftw      |                 | Very old | Yes        | "For the win"; expresses ap
 ftl      |                 | Very old | Yes        | "For the lose"; expresses dislike
 atw      |                 | Very old | Rare       | "All the way"; expresses approval/support
 w00t     | woot            | Old      | No         | Exclamation of joy
+lrl      |                 | New      | Rare       | "Laughing really loudly"
 
 
 # Emoticons #
