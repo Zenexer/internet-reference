@@ -21,7 +21,7 @@ bbl      |                 | Very old | Yes        | "Be back later"
 g2g      | gtg             | Very old | Yes        | "Got to go"
 cya      |                 | Old      | Yes        | "See ya [later]"
 l8r      |                 | Old      | No         | "Later"
-gg       |                 | Very old | Yes        | "Good game"
+gg       |                 | Very old | Yes        | "Good game"; sarcastic in other contexts
 noob     | nub             | Old      | Rare       | Slang for "newbie"
 kek      | topkek          | New      | Yes        | Translates to "lol" (see above)
 gr8      |                 | Old      | No         | "Great"
@@ -53,6 +53,10 @@ ftl      |                 | Very old | Yes        | "For the lose"; expresses d
 atw      |                 | Very old | Rare       | "All the way"; expresses approval/support
 w00t     | woot            | Old      | No         | Exclamation of joy
 lrl      |                 | New      | Rare       | "Laughing really loudly"
+pleb     | plebs           | New      | Yes        | "Plebian(s)"; normal person, conformist
+kthx     | kthxbai         | Old      | Yes        | "'kay-thanks(-bye)"; firm ending to statement
+bc       |                 | Old      | Yes        | "Because"
+ik       |                 | Old      | Yes        | "I know"
 
 
 # Emoticons #
