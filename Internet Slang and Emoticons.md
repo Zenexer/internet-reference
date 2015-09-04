@@ -57,6 +57,12 @@ pleb     | plebs           | New      | Yes        | "Plebian(s)"; normal person
 kthx     | kthxbai         | Old      | Yes        | "'kay-thanks(-bye)"; firm ending to statement
 bc       |                 | Old      | Yes        | "Because"
 ik       |                 | Old      | Yes        | "I know"
+wtg      | w2g             | Old      | Rare       | "Way to go"
+wtb      |                 | Old      | Yes        | "[I] want to buy"
+wts      |                 | Old      | Yes        | "[I] want to sell"
+ty       |                 | Very old | Yes        | "Thank you"
+yw       |                 | Very old | Yes        | "You're welcome"
+thx      |                 | Old      | Yes        | "Thanks"
 
 
 # Emoticons #
