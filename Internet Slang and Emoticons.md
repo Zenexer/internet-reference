@@ -42,7 +42,7 @@ afaik    |                 | Old      | Yes        | "As far as I know"
 cba      |                 | Old      | Yes        | "Can't be arsed"
 iirc     |                 | Old      | Yes        | "If I recall correctly"
 jk       |                 | Very old | Yes        | "Just kidding"
-kappa    |                 | New      | Yes        | Sarcasm
+kappa    | keepo           | New      | Yes        | Sarcasm
 /s       |                 | New      | Yes        | Sarcasm
 
 
