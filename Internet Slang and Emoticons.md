@@ -48,6 +48,10 @@ pls      | plz, pl0x       | Old      | Yes        | Please
 rip      |                 | New      | Yes        | Similar to "lol"
 wtf      | tf              | Very old | Yes        | "What the fuck"
 tbh      |                 | Old      | Yes        | "To be honest"
+ftw      |                 | Very old | Yes        | "For the win"; expresses approval/support
+ftl      |                 | Very old | Yes        | "For the lose"; expresses dislike
+atw      |                 | Very old | Rare       | "All the way"; expresses approval/support
+w00t     | woot            | Old      | No         | Exclamation of joy
 
 
 # Emoticons #
