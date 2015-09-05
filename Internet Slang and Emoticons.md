@@ -69,6 +69,14 @@ pwned    | pwn             | Very old | Rare       | "Powned"; like "owned"
 rekt     |                 | New      | Yes        | "Wrecked"; like "owned"
 nvm      |                 | Very old | Yes        | "Never mind"
 nm       |                 | Very old | Rare       | "Not much"; occasionally "never mind"
+wuu2     |                 | Old      | Rare       | "What [are] you up to?"
+hru      |                 | Old      | Yes        | "How are you?"
+omf      |                 | New      | Rare       | "Oh my fuck"
+ngl      |                 | New      | Yes        | "Not gonna lie"
+js       |                 | Old      | Yes        | "Just sayin'"
+jfc      |                 | Old      | Yes        | "Jesus fucking Christ"
+ofc      |                 | Very old | Rare       | "Of course"
+tl;dr    |                 | Old      | Yes        | "Too long; didn't read"
 
 
 # Emoticons #
@@ -114,3 +122,9 @@ Proper emoji use non-Latin characters to create complex, detailed faces.  There 
 Emoji       | Description
 :----------:|:-----------
 ¯\\_(ツ)_/¯  | Shrug
+ (╯°□°）╯︵ ┻━┻) | Flip table
+ ┬──┬ ¯\\_(ツ) | Restore flipped table
+ (╯°□°）╯ | Gasp, hands in the air
+ ಠ_ಠ | Skeptical/not-amused stare
+ ( ͡° ͜ʖ ͡°) | Trollface
+ 
