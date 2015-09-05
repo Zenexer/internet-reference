@@ -80,6 +80,8 @@ jfc      |                 | Old      | Yes        | "Jesus fucking Christ"
 ofc      |                 | Very old | Rare       | "Of course"
 tl;dr    |                 | Old      | Yes        | "Too long; didn't read"
 shank    |                 | New      | Yes        | Stab
+orly     |                 | Old      | Yes        | "Oh really?"
+yarly    |                 | Old      | Yes        | "Yeah, really"
 
 \* Recency to common Internet vocabulary, not use elsewhere.  Many words have origins that are much older than the Internet, such as "pwn" and "shank".
 
