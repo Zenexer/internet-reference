@@ -4,7 +4,7 @@ Slang    | Variations      | Recency* | Modern use | Meaning
 :--------|:----------------|:--------:|:----------:|:-------
 lol      | lulz, lel       | Very old | Yes        | "Laugh out loud"
 rofl     |                 | Very old | Rare       | "Rolling on floor laughing"
-lmao     | lmfao           | Very old | Yes        | "Laughing my ass off"
+lmao     | lmfao           | Very old | Yes        | "Laughing my (fucking) ass off"
 rotflol  |                 | Very old | No         | "Rolling on floor laughing out loud"
 k        | kk              | Very old | Yes        | "Okay"
 omw      |                 | Old      | Yes        | "On my way"
@@ -33,13 +33,12 @@ wot      | wat             | Old      | Yes        | "What"; meant to sound stup
 uwotm8   |                 | New      | Yes        | "You what mate?"
 nu       |                 | Old      | Yes        | Cute "no"
 btw      |                 | Very old | Yes        | "By the way"
-omg      | omfg            | Very old | Yes        | "Oh my god"
+omg      | omfg            | Very old | Yes        | "Oh my (fucking) god"
 inb4     |                 | Old      | Yes        | "In before"; prefixes a prediction
 ikr      |                 | Old      | Yes        | "I know, right?"
 guiz     |                 | Old      | Yes        | "Guys"; meant to sound stupid
-idk      | idfk            | Very old | Yes        | "I don't know"
+idk      | idfk, idek      | Very old | Yes        | "I don't (fucking/even) know"
 idgaf    |                 | Old      | Yes        | "I don't give a fuck"
-omg      | omfg            | Very old | Yes        | "Oh my god"
 afaik    |                 | Old      | Yes        | "As far as I know"
 cba      |                 | Old      | Yes        | "Can't be arsed"
 iirc     |                 | Old      | Yes        | "If I recall correctly"
@@ -82,6 +81,15 @@ tl;dr    |                 | Old      | Yes        | "Too long; didn't read"
 shank    |                 | New      | Yes        | Stab
 orly     |                 | Old      | Yes        | "Oh really?"
 yarly    |                 | Old      | Yes        | "Yeah, really"
+irl      |                 | Very old | Yes        | "In real life"
+gtfo     |                 | Very old | Yes        | "Get the fuck out"
+yolo     | yoloswag        | New      | Yes        | "You only live once"
+swag     | swagger         | New      | Yes        | Coolness (sarcastic)
+tolo     |                 | New      | Rare       | "Tits out legs open"
+fml      |                 | Old      | Yes        | "Fuck my life" (jokingly)
+kms      |                 | New      | Yes        | "Kill myself" (jokingly)
+smd      |                 | New      | Yes        | "Suck my dick"
+fyi      |                 | Very old | Yes        | "For your information"
 
 \* Recency to common Internet vocabulary, not use elsewhere.  Many words have origins that are much older than the Internet, such as "pwn" and "shank".
 
