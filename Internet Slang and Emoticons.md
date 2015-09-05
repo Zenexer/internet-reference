@@ -43,7 +43,7 @@ cba      |                 | Old      | Yes        | "Can't be arsed"
 iirc     |                 | Old      | Yes        | "If I recall correctly"
 jk       |                 | Very old | Yes        | "Just kidding"
 kappa    | keepo           | New      | Yes        | Sarcasm
-/s       |                 | New      | Yes        | Sarcasm
+/s       |                 | New      | Yes        | Sarcasm (suffix)
 pls      | plz, pl0x       | Old      | Yes        | Please
 rip      |                 | New      | Yes        | Similar to "lol"
 wtf      | tf              | Very old | Yes        | "What the fuck"
