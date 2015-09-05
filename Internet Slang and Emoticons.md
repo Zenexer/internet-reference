@@ -68,7 +68,7 @@ wb       |                 | Very old | Yes        | "Welcome back"
 pwned    | pwn             | Very old | Rare       | "Powned"; like "owned"
 rekt     |                 | New      | Yes        | "Wrecked"; like "owned"
 nvm      |                 | Very old | Yes        | "Never mind"
-nm       |                 | Very old | Rare       | "Not much"
+nm       |                 | Very old | Rare       | "Not much"; occasionally "never mind"
 
 
 # Emoticons #
