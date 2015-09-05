@@ -126,5 +126,5 @@ Emoji       | Description
  ┬──┬ ¯\\_(ツ) | Restore flipped table
  (╯°□°）╯ | Gasp, hands in the air
  ಠ_ಠ | Skeptical/not-amused stare
- ( ͡° ͜ʖ ͡°) | Trollface
+( ͡° ͜ʖ ͡°) | Trollface
  
