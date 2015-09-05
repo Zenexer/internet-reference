@@ -21,20 +21,22 @@ bbl      |                 | Very old | Yes        | "Be back later"
 g2g      | gtg             | Very old | Yes        | "Got to go"
 cya      |                 | Old      | Yes        | "See ya [later]"
 l8r      |                 | Old      | No         | "Later"
-gg       |                 | Very old | Yes        | "Good game"; sarcastic in other contexts
+gg       |                 | Very old | Yes        | "Good game"
 noob     | nub             | Old      | Rare       | Slang for "newbie"
 kek      | topkek          | New      | Yes        | Translates to "lol" (see above)
 gr8      |                 | Old      | No         | "Great"
 m8       |                 | Old      | Yes        | "Mate"
-3cool5u  |                 | New      | Yes        | "Too cool for you" (from "2cool4u")
+3cool5u  |                 | New      | Yes        | "Too cool for you"; from "2cool4u"
 leet     | l33t, 1337      | Very old | Yes        | Slang for "elite"
 dank     |                 | New      | Yes        | Similar to "cool"
-wot      | wat             | Old      | Yes        | "What"; often meant to sound stupid
+wot      | wat             | Old      | Yes        | "What"; meant to sound stupid
+uwotm8   |                 | New      | Yes        | "You what mate?"
+nu       |                 | Old      | Yes        | Cute "no"
 btw      |                 | Very old | Yes        | "By the way"
 omg      | omfg            | Very old | Yes        | "Oh my god"
 inb4     |                 | Old      | Yes        | "In before"; prefixes a prediction
 ikr      |                 | Old      | Yes        | "I know, right?"
-guiz     |                 | Old      | Yes        | Slang for "guiz"; meant to sound stupid
+guiz     |                 | Old      | Yes        | "Guys"; meant to sound stupid
 idk      | idfk            | Very old | Yes        | "I don't know"
 idgaf    |                 | Old      | Yes        | "I don't give a fuck"
 omg      | omfg            | Very old | Yes        | "Oh my god"
@@ -53,7 +55,7 @@ ftl      |                 | Very old | Yes        | "For the lose"; expresses d
 atw      |                 | Very old | Rare       | "All the way"; expresses approval
 w00t     | woot            | Old      | No         | Exclamation of joy
 lrl      |                 | New      | Rare       | "Laughing really loudly"
-pleb     | plebs           | New      | Yes        | "Plebian(s)"; normal person, conformist
+pleb     | plebs           | New      | Yes        | "Plebian(s)"; conformist
 kthx     | kthxbai         | Old      | Yes        | "'kay-thanks(-bye)"; implies firmness
 bc       |                 | Old      | Yes        | "Because"
 ik       |                 | Old      | Yes        | "I know"
