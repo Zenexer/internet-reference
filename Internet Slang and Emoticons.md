@@ -65,6 +65,8 @@ yw       |                 | Very old | Yes        | "You're welcome"
 thx      |                 | Old      | Yes        | "Thanks"
 afk      |                 | Very old | Yes        | "Away from keyboard"
 wb       |                 | Very old | Yes        | "Welcome back"
+pwned    | pwn             | Very old | Rare       | "Powned"; like "owned"
+rekt     |                 | New      | Yes        | "Wrecked"; like "owned"
 
 
 # Emoticons #
