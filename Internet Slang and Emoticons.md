@@ -67,6 +67,8 @@ afk      |                 | Very old | Yes        | "Away from keyboard"
 wb       |                 | Very old | Yes        | "Welcome back"
 pwned    | pwn             | Very old | Rare       | "Powned"; like "owned"
 rekt     |                 | New      | Yes        | "Wrecked"; like "owned"
+nvm      |                 | Very old | Yes        | "Never mind"
+nm       |                 | Very old | Rare       | "Not much"
 
 
 # Emoticons #
