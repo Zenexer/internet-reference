@@ -63,6 +63,8 @@ wts      |                 | Old      | Yes        | "[I] want to sell"
 ty       |                 | Very old | Yes        | "Thank you"
 yw       |                 | Very old | Yes        | "You're welcome"
 thx      |                 | Old      | Yes        | "Thanks"
+afk      |                 | Very old | Yes        | "Away from keyboard"
+wb       |                 | Very old | Yes        | "Welcome back"
 
 
 # Emoticons #
