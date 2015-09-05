@@ -1,6 +1,6 @@
 # Internet slang and abbreviations #
 
-Slang    | Variations      | Recency  | Modern use | Meaning
+Slang    | Variations      | Recency* | Modern use | Meaning
 :--------|:----------------|:--------:|:-----------|:-------
 lol      | lul, lulz, lel  | Very old | Yes        | "Laugh out loud"
 rofl     |                 | Very old | Rare       | "Rolling on floor laughing"
@@ -77,6 +77,9 @@ js       |                 | Old      | Yes        | "Just sayin'"
 jfc      |                 | Old      | Yes        | "Jesus fucking Christ"
 ofc      |                 | Very old | Rare       | "Of course"
 tl;dr    |                 | Old      | Yes        | "Too long; didn't read"
+shank    |                 | New      | Yes        | Stab
+
+* Recency to common Internet vocabulary, not use elsewhere.  Many words have origins that are much older than the Internet, such as "pwn" and "shank".
 
 
 # Emoticons #
@@ -117,14 +120,14 @@ xD         | Cringe-smile
 
 ## Emoji ##
 
-Proper emoji use non-Latin characters to create complex, detailed faces.  There are a lot of combinations; I'll only list emoji that I see often here.
+Proper emoji use non-Latin characters to create complex, detailed faces.  There are a lot of combinations; I'll only list emoji that I see often.
 
 Emoji       | Description
 :----------:|:-----------
 ¯\\_(ツ)_/¯  | Shrug
- (╯°□°）╯︵ ┻━┻) | Flip table
- ┬──┬ ¯\\_(ツ) | Restore flipped table
- (╯°□°）╯ | Gasp, hands in the air
- ಠ_ಠ | Skeptical/not-amused stare
-( ͡° ͜ʖ ͡°) | Trollface
+(╯°□°）╯︵ ┻━┻) | Flip table
+┬──┬ ¯\\_(ツ) | Restore flipped table
+(╯°□°）╯ | Gasp, hands in the air
+ಠ_ಠ | Skeptical/not-amused stare
+( ͡° ͜ʖ ͡°) | Trollface (doesn't print properly in some browsers)
  
