@@ -79,7 +79,7 @@ ofc      |                 | Very old | Rare       | "Of course"
 tl;dr    |                 | Old      | Yes        | "Too long; didn't read"
 shank    |                 | New      | Yes        | Stab
 
-* Recency to common Internet vocabulary, not use elsewhere.  Many words have origins that are much older than the Internet, such as "pwn" and "shank".
+\* Recency to common Internet vocabulary, not use elsewhere.  Many words have origins that are much older than the Internet, such as "pwn" and "shank".
 
 
 # Emoticons #
