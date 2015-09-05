@@ -1,8 +1,8 @@
 # Internet slang and abbreviations #
 
 Slang    | Variations      | Recency* | Modern use | Meaning
-:--------|:----------------|:--------:|:-----------|:-------
-lol      | lul, lulz, lel  | Very old | Yes        | "Laugh out loud"
+:--------|:----------------|:--------:|:----------:|:-------
+lol      | lulz, lel       | Very old | Yes        | "Laugh out loud"
 rofl     |                 | Very old | Rare       | "Rolling on floor laughing"
 lmao     | lmfao           | Very old | Yes        | "Laughing my ass off"
 rotflol  |                 | Very old | No         | "Rolling on floor laughing out loud"
