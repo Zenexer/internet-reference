@@ -114,8 +114,15 @@ c:         | Cute smile
 ^.^        | Cartoon smile
 >_<        | Cartoon grimace
 >.<        | Cartoon grimace
+>_>        | Looking sideways; avoiding eye contact
+<_<        | Looking sideways; avoiding eye contact
+>.>        | Looking sideways; avoiding eye contact
+<.<        | Looking sideways; avoiding eye contact
 -.-        | Angry stare ("not amused")
 -_-        | Angry stare ("not amused")
+o_o        | Small eyes; aghast
+o.o        | Small eyes; aghast
+._.        | Small eyes; aghast
 ;_;        | Crying
 \>:)       | Evil grin
 :]         | Robot smile
