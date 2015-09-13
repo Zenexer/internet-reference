@@ -90,6 +90,8 @@ fml      |                 | Old      | Yes        | "Fuck my life" (jokingly)
 kms      |                 | New      | Yes        | "Kill myself" (jokingly)
 smd      |                 | New      | Yes        | "Suck my dick"
 fyi      |                 | Very old | Yes        | "For your information"
+ofc      |                 | Very old | Yes        | "Of course"
+ooc      |                 | Old      | Yes        | "Out-of-context"
 
 \* Recency to common Internet vocabulary, not use elsewhere.  Many words have origins that are much older than the Internet, such as "pwn" and "shank".
 
