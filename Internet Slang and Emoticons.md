@@ -170,4 +170,4 @@ Emoji       | Description
 ┬──┬ ¯\\_(ツ) | Restore flipped table
 (╯°□°）╯ | Gasp, hands in the air
 ಠ_ಠ | Skeptical/not-amused stare
-( ͡° ͜ʖ ͡°) | Trollface (doesn't print properly in some browsers)
+( ͡° ͜ʖ ͡°) | Trollface/"Lenny" (doesn't print properly in some browsers)
