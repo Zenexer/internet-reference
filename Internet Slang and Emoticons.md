@@ -4,34 +4,49 @@ Slang     | Variations      | Recency* | Modern use | Meaning
 :---------|:----------------|:--------:|:----------:|:-------
 /s        |                 | New      | Yes        | Sarcasm (suffix)
 3cool5u   | 3cool5me        | New      | Yes        | "Too cool for you"; from "2cool4u"
+420       |                 | Very old | Yes        | "Marijuana"
 afaik     |                 | Old      | Yes        | "As far as I know"
 afk       |                 | Very old | Yes        | "Away from keyboard"
+asl       | a/s/l           | Very old | Yes        | "Age/sex/location?"; sexual context
+atm       |                 | Very old | Yes        | "At the moment"
 atw       |                 | Very old | Rare       | "All the way"; expresses approval
 ayy       | ayy lmao        | New      | Yes        | "Yeah"; often accompanies humor/thanks
 bae       |                 | New      | Yes        | Informal/sarcastic form of "baby"
 bb        |                 | Old/New  | Yes        | "Baby" / "Be back"
 bbiab     |                 | Old      | Rare       | "Be back in a bit"
 bbl       |                 | Very old | Yes        | "Be back later"
-bc        |                 | Old      | Yes        | "Because"
+bbs       |                 | Old      | Yes        | "Be back soon"
+bc        | b/c, cuz        | Very old | Yes        | "Because"
+bf        |                 | Very old | Yes        | "Boyfriend"
+bff       |                 | Old      | Yes        | "Best friend forever"
+bork      | borked          | Old      | Yes        | "Break" / "Broken"
 brb       |                 | Very old | Yes        | "Be right back"
 btw       |                 | Very old | Yes        | "By the way"
 cba       |                 | Old      | Yes        | "Can't be arsed"
+convo     |                 | Old      | Yes        | "Conversation"
+cp        |                 | Very old | Yes        | "Child porn" (internet taboo)
 cya       |                 | Old      | Yes        | "See ya [later]"
+cya       | cu              | Very old | Yes        | "See you [later]"
 dank      |                 | New      | Yes        | Similar to "cool"
+dc        | d/c, dc'd       | Very old | Yes        | "Disconnect(ed)" / "Don't care"
 dem feels |                 | New      | Yes        | Reaction to emotional text
 fml       |                 | Old      | Yes        | "Fuck my life" (jokingly)
+ftfy      |                 | New      | Yes        | "Fixed that for you" (sarcastic)
 ftl       |                 | Very old | Yes        | "For the lose"; expresses dislike
 ftw       |                 | Very old | Yes        | "For the win"; expresses approval
 fyi       |                 | Very old | Yes        | "For your information"
 g2g       | gtg             | Very old | Yes        | "Got to go"
 g4u       |                 | Old      | Yes        | "Good for you"; often sarcastic
+gf        |                 | Very old | Yes        | "Girlfriend"
 gg        |                 | Very old | Yes        | "Good game"; occasionally "got to go"
 goml      |                 | New      | Yes        | "Get on my level"
 gr8       |                 | Old      | No         | "Great"
+gratz     | congratz        | Very old | Yes        | "Congratulations"
 gtfo      |                 | Very old | Yes        | "Get the fuck out"
 guiz      |                 | Old      | Yes        | "Guys"; meant to sound stupid
 hbu       |                 | New      | Yes        | "How 'bout you?"
 hru       |                 | Old      | Yes        | "How are you?"
+idc       |                 | Very old | Yes        | "I don't care"
 idgaf     |                 | Old      | Yes        | "I don't give a fuck"
 idk       | idfk, idek      | Very old | Yes        | "I don't (fucking/even) know"
 iirc      |                 | Old      | Yes        | "If I recall correctly"
@@ -59,23 +74,26 @@ lrn2      |                 | Old      | Yes        | "Learn to ..."; e.g. "lrn2
 m8        | m9              | Old      | Yes        | "Mate"
 mfw       |                 | New      | Yes        | "My feeling when"
 mrw       |                 | New      | Yes        | "My reaction when"
+nerf      |                 | Old      | Yes        | "Weaken"; e.g. "ak47 is op, plz nerf"
 ngl       |                 | New      | Yes        | "Not gonna lie"
 nm        |                 | Very old | Rare       | "Not much"; occasionally "never mind"
 nmu       |                 | Old      | Rare       | "Not much, you?"
 noob      | nub             | Old      | Rare       | Slang for "newbie"
 nu        |                 | Old      | Yes        | Cute "no"
 nvm       |                 | Very old | Yes        | "Never mind"
-ofc       |                 | Very old | Rare       | "Of course"
 ofc       |                 | Very old | Yes        | "Of course"
 omf       |                 | New      | Rare       | "Oh my fuck"
 omg       | omfg            | Very old | Yes        | "Oh my (fucking) god"
 omw       |                 | Old      | Yes        | "On my way"
 ooc       |                 | Old      | Yes        | "Out-of-context"
+op        |                 | Old      | Yes        | "Overpowered"
+OP        |                 | Very old | Yes        | "Original post(er)"
 orly      |                 | Old      | Yes        | "Oh really?"
 pepe      |                 | Old      | Yes        | Poorly drawn frog from 4chan
 pleb      | plebs           | New      | Yes        | "Plebian(s)"; conformist; "noob"
 pleb tier |                 | New      | Yes        | Of "noob"/conformist quality
-pls       | plz, pl0x       | Old      | Yes        | Please
+plz       | pls, pl0x       | Old      | Yes        | Please
+pron      | pr0n, pr0nz     | Very old | Yes        | "Pornography"
 pwned     | pwn             | Very old | Rare       | "Powned"; like "owned"
 rekt      |                 | New      | Yes        | "Wrecked"; like "owned"
 rickroll  |                 | Old      | Yes        | Common rank involving Rick Astley
@@ -104,9 +122,11 @@ w00t      | woot            | Old      | No         | Exclamation of joy
 wb        |                 | Very old | Yes        | "Welcome back"
 wot       | wat             | Old      | Yes        | "What"; meant to sound stupid
 wtb       |                 | Old      | Yes        | "[I] want to buy"
+wtb       |                 | Old      | Yes        | "Want-to-buy"; looking to buy
 wtf       |                 | Very old | Yes        | "What the fuck"
 wtg       | w2g             | Old      | Rare       | "Way to go"; sarcastic
 wts       |                 | Old      | Yes        | "[I] want to sell"
+wts       |                 | Old      | Yes        | "Want-to-sell"; looking to sell
 wuu2      |                 | Old      | Rare       | "What [are] you up to?"
 yarly     |                 | Old      | Yes        | "Yeah, really"
 ymmv      |                 | Very old | Yes        | "Your mileage may vary"
