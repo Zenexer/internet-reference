@@ -165,7 +165,7 @@ Proper emoji use non-Latin characters to create complex, detailed faces.  There 
 
 Emoji       | Description
 :----------:|:-----------
-¯\\_(ツ)_/¯  | Shrug
+¯\\_(ツ)_/¯  | Shrug ("idk")
 (╯°□°）╯︵ ┻━┻) | Flip table
 ┬──┬ ¯\\_(ツ) | Restore flipped table
 (╯°□°）╯ | Gasp, hands in the air
