@@ -174,9 +174,9 @@ o.o        | Small eyes; aghast
 \>:\|      | Angry
 -.^        | Raised eyebrow
 -_^        | Raised eyebrow
-8)         | Nerdy/geeky face
+8\)        | Nerdy/geeky face
 B)         | Cool face, with shades
-<3         | Heart
+\<3        | Heart
 xD         | Cringe-smile
 
 ## Emoji ##
