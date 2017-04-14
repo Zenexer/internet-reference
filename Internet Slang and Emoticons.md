@@ -152,20 +152,20 @@ c:         | Cute smile
 :L         | Uneasy
 :/         | Uneasy
 :\\        | Uneasy
-^_^        | Cartoon smile
+^\_^       | Cartoon smile
 ^.^        | Cartoon smile
->_<        | Cartoon grimace
->.<        | Cartoon grimace
->_>        | Looking sideways; avoiding eye contact
-<_<        | Looking sideways; avoiding eye contact
->.>        | Looking sideways; avoiding eye contact
-<.<        | Looking sideways; avoiding eye contact
+\>\_\<     | Cartoon grimace
+\>.\<      | Cartoon grimace
+\>\_\>     | Looking sideways; avoiding eye contact
+\<\_\<     | Looking sideways; avoiding eye contact
+\>.\>      | Looking sideways; avoiding eye contact
+\<.\<      | Looking sideways; avoiding eye contact
 -.-        | Angry stare ("not amused")
--_-        | Angry stare ("not amused")
-o_o        | Small eyes; aghast
+-\_-       | Angry stare ("not amused")
+o\_o       | Small eyes; aghast
 o.o        | Small eyes; aghast
-._.        | Small eyes; aghast
-;_;        | Crying
+.\_.       | Small eyes; aghast
+;\_;       | Crying
 \>:)       | Evil grin
 :]         | Robot smile
 :}         | Devious smile
@@ -173,7 +173,7 @@ o.o        | Small eyes; aghast
 \>:(       | Angry
 \>:\|      | Angry
 -.^        | Raised eyebrow
--_^        | Raised eyebrow
+-\_^       | Raised eyebrow
 8\)        | Nerdy/geeky face
 B)         | Cool face, with shades
 \<3        | Heart
@@ -185,7 +185,7 @@ Proper emoji use non-Latin characters to create complex, detailed faces.  There 
 
 Emoji       | Description
 :----------:|:-----------
-¯\\_(ツ)_/¯  | Shrug ("idk")
+¯\\\_(ツ)\_/¯  | Shrug ("idk")
 (╯°□°）╯︵ ┻━┻) | Flip table
 ┬──┬ ¯\\_(ツ) | Restore flipped table
 (╯°□°）╯ | Gasp, hands in the air
