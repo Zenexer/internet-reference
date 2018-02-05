@@ -74,6 +74,7 @@ kthx      | kthxbai         | Yes        | "'kay-thanks(-bye)"; implies firmness
 l8r       |                 | No         | "Later"
 leet      | l33t, 1337      | Yes        | Slang for "elite"
 lmao      | lmfao           | Yes        | "Laughing my (fucking) ass off"
+lmk       |                 | Rare       | "Let me know"
 lol       | lulz, lel, lawl | Yes        | "Laugh out loud"
 lrl       |                 | Rare       | "Laughing really loudly"
 lrn2      |                 | Yes        | "Learn to ..."; e.g. "lrn2read"
