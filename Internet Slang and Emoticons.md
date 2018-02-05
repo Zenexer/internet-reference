@@ -115,6 +115,7 @@ rude      | rood            | Yes        | Response to insult/taunt
 shank     |                 | Yes        | Stab
 smd       |                 | Yes        | "Suck my dick"
 smh       |                 | Yes        | "Shake my head"
+soz       | sry             | Yes        | "Sorry"
 swag      | swagger         | Yes        | Coolness (sarcastic)
 tbf       |                 | Yes        | "To be fair"
 tbh       |                 | Yes        | "To be honest"
