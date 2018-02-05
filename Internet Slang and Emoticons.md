@@ -1,6 +1,6 @@
 # Internet slang and abbreviations #
 
-Slang     | Variations      | Modern use | Meaning
+Slang     | Variations      | In use?    | Meaning
 :---------|:----------------|:----------:|:-------
 /s        |                 | Yes        | Sarcasm (suffix)
 3cool5u   | 3cool5me        | Yes        | "Too cool for you"; from "2cool4u"
@@ -29,11 +29,14 @@ cya       |                 | Yes        | "See ya [later]"
 cya       | cu              | Yes        | "See you [later]"
 dank      |                 | Yes        | Similar to "cool"
 dc        | d/c, dc'd       | Yes        | "Disconnect(ed)" / "Don't care"
-dem feels |                 | Yes        | Reaction to emotional text
+dem feels |                 | No         | Reaction to emotional text
+dw        |                 | Yes        | "Don't worry"
+e2e       | e2ee            | Yes        | "End-to-end [encryption]"
 fml       |                 | Yes        | "Fuck my life" (jokingly)
 ftfy      |                 | Yes        | "Fixed that for you" (sarcastic)
 ftl       |                 | Yes        | "For the lose"; expresses dislike
 ftw       |                 | Yes        | "For the win"; expresses approval
+fwiw      |                 | Yes        | "For what it's worth"
 fyi       |                 | Yes        | "For your information"
 g2g       | gtg             | Yes        | "Got to go"
 g4u       |                 | Yes        | "Good for you"; often sarcastic
@@ -46,6 +49,9 @@ gtfo      |                 | Yes        | "Get the fuck out"
 guiz      |                 | Yes        | "Guys"; meant to sound stupid
 hbu       |                 | Yes        | "How 'bout you?"
 hru       |                 | Yes        | "How are you?"
+ianadb    |                 | Yes        | "I am not a doctor, but..."
+ianalb    |                 | Yes        | "I am not a lawyer, but..."
+ianap     |                 | Yes        | "I am not a photographer"
 idc       |                 | Yes        | "I don't care"
 idgaf     |                 | Yes        | "I don't give a fuck"
 idk       | idfk, idek      | Yes        | "I don't (fucking/even) know"
@@ -72,6 +78,7 @@ lol       | lulz, lel, lawl | Yes        | "Laugh out loud"
 lrl       |                 | Rare       | "Laughing really loudly"
 lrn2      |                 | Yes        | "Learn to ..."; e.g. "lrn2read"
 m8        | m9              | Yes        | "Mate"
+maga      |                 | Yes        | "Make America Great Again" (Trump)
 mfw       |                 | Yes        | "My feeling when"
 mrw       |                 | Yes        | "My reaction when"
 nerf      |                 | Yes        | "Weaken"; e.g. "ak47 is op, plz nerf"
@@ -89,15 +96,17 @@ ooc       |                 | Yes        | "Out-of-context"
 op        |                 | Yes        | "Overpowered"
 OP        |                 | Yes        | "Original post(er)"
 orly      |                 | Yes        | "Oh really?"
-pepe      |                 | Yes        | Poorly drawn frog from 4chan
+pepe      |                 | Yes        | Poorly-drawn frog from 4chan
 pleb      | plebs           | Yes        | "Plebian(s)"; conformist; "noob"
 pleb tier |                 | Yes        | Of "noob"/conformist quality
 plz       | pls, pl0x       | Yes        | Please
 pron      | pr0n, pr0nz     | Yes        | "Pornography"
 pwned     | pwn             | Rare       | "Powned"; like "owned"
+REEEEEEEE |                 | Yes        | Onomatopoeia; very angry
 rekt      |                 | Yes        | "Wrecked"; like "owned"
-rickroll  |                 | Yes        | Common rank involving Rick Astley
+rickroll  |                 | Yes        | Common prank involving Rick Astley
 rip       |                 | Yes        | Laughter in response to failure
+rly       |                 | Yes        | "Really"
 rms       |                 | Rare       | [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
 rofl      |                 | Rare       | "Rolling on floor laughing"
 rotflol   |                 | No         | "Rolling on floor laughing out loud"
@@ -113,6 +122,7 @@ tbt       |                 | Yes        | "Throwback Thursday" / "Throwback to"
 tf        |                 | Yes        | "... the fuck?" / "That feeling"
 tfw       |                 | Yes        | "That feeling when"
 thx       |                 | Yes        | "Thanks"
+tide      |                 | Yes        | What angsty teens claim to eat
 TIL       |                 | Yes        | "Today I learned"
 tl;dr     | tl;dw           | Yes        | "Too long; didn't read" / "... watch"
 tmw       |                 | Yes        | "That moment when"
@@ -133,7 +143,34 @@ ymmv      |                 | Yes        | "Your mileage may vary"
 yolo      | yoloswag        | Yes        | "You only live once"
 yw        |                 | Yes        | "You're welcome"
 
-\* Recency to common Internet vocabulary, not use elsewhere.  Many words have origins that are much older than the Internet, such as "pwn" and "shank".
+## Cryptocurrency ##
+
+Slang     | Variations      | Meaning
+:---------|:----------------|:-------
+dump      |                 | Sell, often in panic
+hodl      |                 | "Hold!" (as opposed to "sell")
+moon      |                 | Where the value of cryptocurrency is headed
+pump      |                 | Buy, often to deliberately inflate price
+pumpdump  |                 | What whales do
+segwit    |                 | Segregated Witness (controversial update to BTC)
+segwit2x  |                 | Segregated Witness v2 (controversial update to BTC)
+altcoin   | shitcoin        | Anything other than bitcoin
+tether    |                 | A coin meant to be equal to 1 unit of fiat currency; used for regulation evasion
+whale     |                 | Rich person
+
+### Ticker symbols ###
+
+ID   | Currency       | Notes
+:--- |:-------------- |:-----
+BTC  | Bitcoin        | The original cryptocurrency
+BCH  | Bitcoin Cash   | Userbase is largely Chinese
+BTG  | Bitcoin Gold   |
+DOGE | Dogecoin       | Early joke altcoin
+ETH  | Ethereum       | Popular
+LTC  | Litecoin       | The original altcoin
+USDT | Tether: USD    |
+XBT  | Bitcoin        | Less common than BTC
+XRP  | Ripple         |
 
 
 # Emoticons #
@@ -149,9 +186,10 @@ Emoticon   | Description
 :<         | Cute frown
 c:         | Cute smile
 <:         | Devious smile
-:L         | Uneasy
-:/         | Uneasy
-:\\        | Uneasy
+:L         | Uneasy; can also be drooling
+:l         | Uneasy; can also be drooling
+:/         | Uneasy or disapproving
+:\\        | Uneasy or disapproving
 ^\_^       | Cartoon smile
 ^.^        | Cartoon smile
 \>\_\<     | Cartoon grimace
@@ -165,6 +203,8 @@ c:         | Cute smile
 o\_o       | Small eyes; aghast
 o.o        | Small eyes; aghast
 .\_.       | Small eyes; aghast
+owo        | Small eyes; aghast
+OwO        | Wide eyes; aghast
 ;\_;       | Crying
 \>:)       | Evil grin
 :]         | Robot smile
@@ -178,6 +218,10 @@ o.o        | Small eyes; aghast
 B)         | Cool face, with shades
 \<3        | Heart
 xD         | Cringe-smile
+:3         | Cute, innocent kitty face
+o/         | Waving
+\\o        | Waving
+\\o/       | Cheering; arms in the air
 
 ## Emoji ##
 
