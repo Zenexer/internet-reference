@@ -147,7 +147,7 @@ yarly     |                 | Yes        | "Yeah, really"
 ymmv      |                 | Yes        | "Your mileage may vary"
 yolo      | yoloswag        | Yes        | "You only live once"
 yw        |                 | Yes        | "You're welcome"
-\| \|\|<br>\|\| \|\_ |      | Yes        | Loss meme
+`\| \|\|<br>\|\| \|\_` |    | Yes        | Loss meme
 
 ## Cryptocurrency ##
 
