@@ -2,7 +2,7 @@
 
 Slang     | Variations      | In use?    | Meaning
 :---------|:----------------|:----------:|:-------
-`\|`&nbsp;&nbsp;`\|\|`<br>`\|\|`&nbsp;`\|_` |  | Yes        | Loss meme
+`\|`&nbsp;&nbsp;`\|\|`<br>`\|\|`&nbsp;`\|_` | | Yes | [Loss](https://knowyourmeme.com/news/heres-to-loss-the-internets-greatest-meme)
 /s        |                 | Yes        | Sarcasm (suffix)
 3cool5u   | 3cool5me        | Yes        | "Too cool for you"; from "2cool4u"
 420       |                 | Yes        | "Marijuana"
@@ -65,7 +65,7 @@ inb4      |                 | Yes        | "In before"; prefixes a prediction
 irl       |                 | Yes        | "In real life"
 jfc       |                 | Yes        | "Jesus fucking Christ"
 jk        |                 | Yes        | "Just kidding"
-John Cena |                 | Yes        | Similar use to "Chuk Norris"
+John Cena |                 | Yes        | Similar use to "Chuck Norris"
 JOHN CENA |                 | Yes        | Comonly used spam phrase
 js        |                 | Yes        | "Just sayin'"
 k         | kk              | Yes        | "Okay"
