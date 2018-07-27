@@ -33,7 +33,8 @@ dem feels |                 | No         | Reaction to emotional text
 dw        |                 | Yes        | "Don't worry"
 e2e       | e2ee            | Yes        | "End-to-end [encryption]"
 fml       |                 | Yes        | "Fuck my life" (jokingly)
-ftfy      |                 | Yes        | "Fixed that for you" (sarcastic)
+FOMO      |                 | Yes        | "Fear of missing out"
+FTFY      |                 | Yes        | "Fixed that for you" (sarcastic)
 ftl       |                 | Yes        | "For the lose"; expresses dislike
 ftw       |                 | Yes        | "For the win"; expresses approval
 fwiw      |                 | Yes        | "For what it's worth"
@@ -76,6 +77,7 @@ leet      | l33t, 1337      | Yes        | Slang for "elite"
 lmao      | lmfao           | Yes        | "Laughing my (fucking) ass off"
 lmk       |                 | Rare       | "Let me know"
 lol       | lulz, lel, lawl | Yes        | "Laugh out loud"
+LPT       |                 | Yes        | "Life Pro Tip"
 lrl       |                 | Rare       | "Laughing really loudly"
 lrn2      |                 | Yes        | "Learn to ..."; e.g. "lrn2read"
 m8        | m9              | Yes        | "Mate"
@@ -120,7 +122,8 @@ soz       | sry             | Yes        | "Sorry"
 swag      | swagger         | Yes        | Coolness (sarcastic)
 tbf       |                 | Yes        | "To be fair"
 tbh       |                 | Yes        | "To be honest"
-tbt       |                 | Yes        | "Throwback Thursday" / "Throwback to"
+tbt       |                 | Yes        | "Throwback to"
+TIFU      |                 | Yes        | "Today I fucked up" (e.g., "TIFU by...")
 tf        |                 | Yes        | "... the fuck?" / "That feeling"
 tfw       |                 | Yes        | "That feeling when"
 thx       |                 | Yes        | "Thanks"
@@ -144,6 +147,7 @@ yarly     |                 | Yes        | "Yeah, really"
 ymmv      |                 | Yes        | "Your mileage may vary"
 yolo      | yoloswag        | Yes        | "You only live once"
 yw        |                 | Yes        | "You're welcome"
+\| \|\|<br>\|\| \|\_ |      | Yes        | Loss meme
 
 ## Cryptocurrency ##
 
@@ -217,13 +221,21 @@ OwO        | Wide eyes; aghast
 -.^        | Raised eyebrow
 -\_^       | Raised eyebrow
 8\)        | Nerdy/geeky face
-B)         | Cool face, with shades
+B)         | Cool face with shades
 \<3        | Heart
 xD         | Cringe-smile
 :3         | Cute, innocent kitty face
+x3         | Combination of xD and :3
 o/         | Waving
 \\o        | Waving
 \\o/       | Cheering; arms in the air
+;\_;       | Crying
+OwO        | Cute, similar to :3 but newer, eyes open
+uwu        | Cute, similar to :3 but newer, eyes closed
+O:)        | Innocent; person with halo over head
+:#         | Mouth zippered shut
+:*         | Kiss (puckered lips)
+
 
 ## Emoji ##
 
@@ -233,7 +245,7 @@ Emoji       | Description
 :----------:|:-----------
 ¯\\\_(ツ)\_/¯  | Shrug ("idk")
 (╯°□°）╯︵ ┻━┻) | Flip table
-┬──┬ ¯\\_(ツ) | Restore flipped table
+┬──┬ ¯\\\_(ツ) | Restore flipped table
 (╯°□°）╯ | Gasp, hands in the air
 ಠ_ಠ | Skeptical/not-amused stare
 ( ͡° ͜ʖ ͡°) | Trollface/"Lenny" (doesn't print properly in some browsers)
