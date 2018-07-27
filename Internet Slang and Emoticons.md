@@ -2,6 +2,8 @@
 
 Slang     | Variations      | In use?    | Meaning
 :---------|:----------------|:----------:|:-------
+```\| \|\|
+\|\| \|\_``` | | Yes | Loss meme
 /s        |                 | Yes        | Sarcasm (suffix)
 3cool5u   | 3cool5me        | Yes        | "Too cool for you"; from "2cool4u"
 420       |                 | Yes        | "Marijuana"
@@ -147,7 +149,6 @@ yarly     |                 | Yes        | "Yeah, really"
 ymmv      |                 | Yes        | "Your mileage may vary"
 yolo      | yoloswag        | Yes        | "You only live once"
 yw        |                 | Yes        | "You're welcome"
-<code>\| \|\|<br>\|\| \|\_</code> | | Yes | Loss meme
 
 ## Cryptocurrency ##
 
