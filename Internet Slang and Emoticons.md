@@ -2,7 +2,7 @@
 
 Slang     | Variations      | In use?    | Meaning
 :---------|:----------------|:----------:|:-------
-`\|&nbsp;&nbsp;\|\|`<br>`\|\|&nbsp;\|_` |  | Yes        | Loss meme
+`\|`&nbsp;&nbsp;`\|\|`<br>`\|\|`&nbsp;`\|_` |  | Yes        | Loss meme
 /s        |                 | Yes        | Sarcasm (suffix)
 3cool5u   | 3cool5me        | Yes        | "Too cool for you"; from "2cool4u"
 420       |                 | Yes        | "Marijuana"
