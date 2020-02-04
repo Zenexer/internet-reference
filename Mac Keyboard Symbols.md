@@ -1,52 +1,66 @@
 # Common symbols #
 
+Columns in the tables:
+
+* Sym: The symbol representing the key
+* Key: The common name of the key
+* CrossPlat?: Whether the symbol is cross-platform.  If "No", then the symbol is unlikely to render properly outside the Apple ecosystem.
+* Alt: An alternate symbol used in some contexts (e.g., legacy)
+* Alt CrossPlat?: Whether the alternate symbol is cross-platform
+
 ## Modifiers ##
 
-When a key combination is displayed, the modifiers are written in the order presented here.  For example, <kbd>Control</kbd> + <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>Q</kbd> would be written as **⌃⌥⇧⌘Q**.
+When a key combination is displayed, the modifiers are written in the order presented here.  For example, <kbd>Control</kbd> + <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>Q</kbd> would be written as <kbd>⌃⌥⇧⌘Q<kbd>.
 
-| Sym | Key         | Alt |
-|:---:|:------------|:---:|
-|  ⌃  | Control     |     |
-|  ⌥  | Option      |     |
-|  ⇧  | Shift       |     |
-|  ⌘  | Command     |    |
+| Sym | Key         | CrossPlat? | Alt | Alt CrossPlat? |
+|:---:|:------------|:----------:|:---:|:--------------:|
+|  ⌃  | Control     |    Yes     |     |                |
+|  ⌥  | Option      |    Yes     |     |                |
+|  ⇧  | Shift       |    Yes     |     |                |
+|  ⌘  | Command     |    Yes     |    |       No       |
 
-The Command key was formerly represented by an Apple logo.  The Apple logo is one fo the few symbols here that can be easily typed with a typical keyboard layout: **⌥⇧K**
+The Command key was formerly represented by an Apple logo.  The Apple logo is one fo the few symbols here that can be easily typed with a typical keyboard layout: <kbd>⌥⇧K</kbd>
 
-There is also a **Fn** modifier on modern Mac keyboards.  Typically this isn't seen in keyboard shortcuts because it's only used to access keys F1 through F20.  However, and can technically be combined with Control plus one other key to get a unique legacy combination.  Each of these Fn + Control combinations maps to a character in Unicode's U+F700 to U+F7FF private use range.  Some programs will erroneously print these characters upon receiving such a combination.  With system Mac fonts, these characters lack visible glyphs, and are for internal use only.  ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT
+There is also a <kbd>Fn</kbd> modifier on modern Mac keyboards.  Typically this isn't seen in keyboard shortcuts because it's only used to access keys F1 through F20.  However, it can technically be combined with Control plus one other key to get a unique legacy combination.  Each of these <kbd>Fn</kbd> + <kbd>Control</kbd> combinations maps to a character in Unicode's U+F700 to U+F7FF private use range.  Some programs will erroneously print these characters upon receiving such a combination.  With system Mac fonts, these characters lack visible glyphs, and are for internal use only.  Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT:
 
+> NeXT's OpenStep reserved corporate characters in the range 0xF700 to
+> 0xF8FF for transient use as keyboard function keys. The ones actually
+> assigned in NextStep are 0xF700-0xF747, as follows. These are still
+> used in the Mac OS X AppKit frameworks. Note that there is no glyph
+> associated with these, and they are not mapped or used by the Mac OS
+> Text Encoding Converter.
 
 ## Normal ##
 
-| Sym | Key         | Alt |
-|:---:|:------------|:---:|
-|  ⎋  | Escape       |     |
-|  ⏏  | Eject        |    |
-|  ⌦  | Delete fwd   |     |
-|  ⌫  | Delete       |     |
-|  ⇪  | Caps lock    |     |
-|  ←  | Left         |     |
-|  →  | Right        |     |
-|  ↑  | Up           |     |
-|  ↓  | Down         |     |
-|  ↩  | Return       |     |
-|  ❘⃝ | Power        |     |
-|  ⇞  | Page up      |     |
-|  ⇟  | Page down    |     |
-|  ⇤  | Back tab     |     |
-|  ⇥  | Tab          |     |
-|  ↘  | End          |     |
-|  ↖  | Home         |     |
-|  ⌤  | Enter        |  ⌅  |
-|    | Context menu |     |
-|  ⌧  | Clear        |     |
-|  ␣  | Space        |  ␢  |
-|  ⇭  | Num lock     |     |
+| Sym | Key         | CrossPlat? | Alt | Alt CrossPlat? |
+|:---:|:------------|:----------:|:---:|:--------------:|
+|  ⎋  | Escape       |    Yes     |     |                |
+|  ⏏  | Eject        |    Yes     |    |       No       |
+|  ⌦  | Delete fwd   |    Yes     |     |                |
+|  ⌫  | Delete       |    Yes     |     |                |
+|  ⇪  | Caps lock    |    Yes     |     |                |
+|  ←  | Left         |    Yes     |     |                |
+|  →  | Right        |    Yes     |     |                |
+|  ↑  | Up           |    Yes     |     |                |
+|  ↓  | Down         |    Yes     |     |                |
+|  ↩  | Return       |    Yes     |     |                |
+|  ❘⃝ | Power        |     No     |     |                |
+|  ⇞  | Page up      |    Yes     |     |                |
+|  ⇟  | Page down    |    Yes     |     |                |
+|  ⇤  | Back tab     |    Yes     |     |                |
+|  ⇥  | Tab          |    Yes     |     |                |
+|  ↘  | End          |    Yes     |     |                |
+|  ↖  | Home         |    Yes     |     |                |
+|  ⌤  | Enter        |    Yes     |  ⌅  |      Yes       |
+|    | Context menu |     No     |     |                |
+|  ⌧  | Clear        |    Yes     |     |                |
+|  ␣  | Space        |    Yes     |  ␢  |       No       |
+|  ⇭  | Num lock     |    Yes     |     |                |
 
-The alternate eject symbol is from a Unicode private use region.  Apple designates it for use with mapping to/from the Mac OS Keyboard encoding.  Ideally, the official Unicode variant should be used instead, as it will be compatible with fonts on other platforms.  ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT
+The alternate eject symbol,  (U+F804), is from a Unicode private use region.  Apple designates it for use with mapping to/from the Mac OS Keyboard encoding.  Ideally, the official Unicode variant should be used instead, as it will be compatible with fonts on other platforms.  Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT:
 
-The click symbol is private a Unicode private use region and is likely incompatible with other platforms.
-
+> The following (11) are for mapping the Mac OS Keyboard and Mac OS Korean
+> encodings (for Mac OS Korean also see 0xF83D, 0xF840-0xF84F).
 
 # Complete list #
 
@@ -124,4 +138,9 @@ LTR indicates usage with left-to-right languages: that means text flows from lef
 
 ISO indicates a symbol designated by an ISO standard.  ISO standard symbols aren't necessarily used by Mac.
 
-Symbols composed of multiple Unicode characters are special in that they are treated as a single character on Mac, despite appearing as multiple symbols.  For most of the characters, this grouping is controlled by the first character, which is a Unicode private use character that is invisible on Mac.  The others use standard Unicode combining techniques.
+Symbols composed of multiple Unicode characters are special in that they are treated as a single character on Mac, despite appearing as multiple symbols.  For most of the characters, this grouping is controlled by the first character, which is a Unicode private use character that is invisible on Mac.  The others use standard Unicode combining techniques.  Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/KEYBOARD.TXT:
+
+> The block of 32 characters 0xF860-0xF87F is for transcoding hints.
+> These are used in combination with standard Unicode characters to force
+> them to be treated in a special way for mapping to other encodings;
+> they have no other effect.
