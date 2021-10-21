@@ -235,7 +235,7 @@ uwu        | Cute, similar to :3 but newer, eyes closed
 O:)        | Innocent; person with halo over head
 :#         | Mouth zippered shut
 :*         | Kiss (puckered lips)
-:v         | Cute, annoyed; puffed-out cheek
+:v         | Cute, annoyed/obstinate; puffed-out cheek
 
 
 ## Emoji ##
