@@ -138,7 +138,7 @@ LTR indicates usage with left-to-right languages: that means text flows from lef
 
 ISO indicates a symbol designated by an ISO standard.  ISO standard symbols aren't necessarily used by Mac.
 
-Symbols composed of multiple Unicode characters are special in that they are treated as a single character on Mac, despite appearing as multiple symbols.  For most of the characters, this grouping is controlled by the first character, which is a Unicode private use character that is invisible on Mac.  The others use standard Unicode combining techniques.  Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/KEYBOARD.TXT:
+Symbols composed of multiple Unicode characters are special in that they are treated as a single character on Mac, despite appearing as multiple symbols.  For most of the characters, this grouping is controlled by the first character, which is a Unicode private use character that is invisible on Mac.  The others use standard Unicode combining techniques.  Quote from https://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/KEYBOARD.TXT:
 
 > The block of 32 characters 0xF860-0xF87F is for transcoding hints.
 > These are used in combination with standard Unicode characters to force
