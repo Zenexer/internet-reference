@@ -2,11 +2,11 @@
 
 Columns in the tables:
 
-* **Sym**: The symbol representing the key
-* **Key**: The common name of the key
-* **CrossPlat?**: Whether the symbol is cross-platform.  If "No", then the symbol is unlikely to render properly outside the Apple ecosystem.
-* **Alt**: An alternate symbol used in some contexts (e.g., legacy)
-* **Alt CrossPlat?**: Whether the alternate symbol is cross-platform
+* **Sym**: The symbol representing the key.
+* **Key**: The common name of the key.
+* **CrossPlat?**: Is the symbol cross-platform? If not, it's unlikely to render correctly outside of the Apple ecosystem.
+* **Alt**: An alternative symbol used in some contexts,such as legacy systems.
+* **Alt CrossPlat?**: Is the alternate symbol cross-platform?
 
 ## Modifiers ##
 
