@@ -10,7 +10,7 @@ Columns in the tables:
 
 ## Modifiers ##
 
-When a key combination is displayed, the modifiers are written in the order presented here.  For example, <kbd>Control</kbd> + <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>Q</kbd> would be written as <kbd>⌃⌥⇧⌘Q</kbd>.
+When a key combination is displayed, the modifiers are written in the order presented here. For example, <kbd>Control</kbd> + <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>Q</kbd> would be written as <kbd>⌃⌥⇧⌘Q</kbd>.
 
 | Sym | Key         | CrossPlat? | Alt | Alt CrossPlat? |
 |:---:|:------------|:----------:|:---:|:--------------:|
@@ -19,9 +19,9 @@ When a key combination is displayed, the modifiers are written in the order pres
 |  ⇧  | Shift       |    Yes     |     |                |
 |  ⌘  | Command     |    Yes     |    |       No       |
 
-The Command key was previously represented by an Apple logo.  The Apple logo is one fo the few symbols here that can be easily typed with a typical keyboard layout: <kbd>⌥⇧K</kbd>
+The Command key was previously represented by an Apple logo. The Apple logo is one fo the few symbols here that can be easily typed with a typical keyboard layout: <kbd>⌥⇧K</kbd>
 
-There is also an <kbd>Fn</kbd> modifier on modern Mac keyboards.  Typically, this isn't seen in keyboard shortcuts because it's primarily used to access keys <kbd>F1</kbd> through <kbd>F20</kbd>.  However, it can technically be combined with <kbd>Control</kbd> plus one other key to create a unique legacy combination.  Each of these <kbd>Fn</kbd> + <kbd>Control</kbd> combinations maps to a character in Unicode's U+F700 to U+F7FF private use range.  Some programs may mistakenly print these characters when receiving such a combination.  With system Mac fonts, these characters lack visible glyphs and are for internal use only.  Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT:
+There is also an <kbd>Fn</kbd> modifier on modern Mac keyboards. Typically, this isn't seen in keyboard shortcuts because it's primarily used to access keys <kbd>F1</kbd> through <kbd>F20</kbd>. However, it can technically be combined with <kbd>Control</kbd> plus one other key to create a unique legacy combination. Each of these <kbd>Fn</kbd> + <kbd>Control</kbd> combinations maps to a character in Unicode's U+F700 to U+F7FF private use range. Some programs may mistakenly print these characters when receiving such a combination. With system Mac fonts, these characters lack visible glyphs and are for internal use only. Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT:
 
 > NeXT's OpenStep reserved corporate characters in the range 0xF700 to
 > 0xF8FF for transient use as keyboard function keys. The ones actually
@@ -57,7 +57,7 @@ There is also an <kbd>Fn</kbd> modifier on modern Mac keyboards.  Typically, thi
 |  ␣  | Space        |    Yes     |  ␢  |       No       |
 |  ⇭  | Num lock     |    Yes     |     |                |
 
-The alternate eject symbol,  (U+F804), is from a Unicode private use region.  Apple designates it for use with mapping to/from the Mac OS Keyboard encoding.  Ideally, the official Unicode variant should be used instead, as it will be compatible with fonts on other platforms.  Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT:
+The alternate eject symbol,  (U+F804), is from a Unicode private use region. Apple designates it for use with mapping to/from the Mac OS Keyboard encoding. Ideally, the official Unicode variant should be used instead, as it will be compatible with fonts on other platforms. Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT:
 
 > The following (11) are for mapping the Mac OS Keyboard and Mac OS Korean
 > encodings (for Mac OS Korean also see 0xF83D, 0xF840-0xF84F).
@@ -134,11 +134,11 @@ These are the official Unicode symbol mappings published by Apple.
 
 Some entries are missing key names; these don't map to physical keys.
 
-LTR indicates usage with left-to-right languages, meaning text flows from left to right, such as in most Western languages.  RTL indicates the opposite.  Many keyboards have both Delete Left and Delete Right, regardless of text direction.
+LTR indicates usage with left-to-right languages, meaning text flows from left to right, such as in most Western languages. RTL indicates the opposite. Many keyboards have both Delete Left and Delete Right, regardless of text direction.
 
-ISO indicates a symbol designated by an ISO standard.  ISO standard symbols aren't necessarily used by Mac.
+ISO indicates a symbol designated by an ISO standard. ISO standard symbols aren't necessarily used by Mac.
 
-Symbols composed of multiple Unicode characters are special in that they are treated as a single character on Mac, despite appearing as multiple symbols.  For most of the characters, this grouping is controlled by the first character, which is a Unicode private use character that is invisible on Mac.  The others use standard Unicode combining techniques.  Quote from https://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/KEYBOARD.TXT:
+Symbols composed of multiple Unicode characters are special in that they are treated as a single character on Mac, despite appearing as multiple symbols. For most of the characters, this grouping is controlled by the first character, which is a Unicode private use character that is invisible on Mac. The others use standard Unicode combining techniques. Quote from https://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/KEYBOARD.TXT:
 
 > The block of 32 characters 0xF860-0xF87F is for transcoding hints.
 > These are used in combination with standard Unicode characters to force
