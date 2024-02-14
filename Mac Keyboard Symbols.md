@@ -19,9 +19,9 @@ When a key combination is displayed, the modifiers are written in the order pres
 |  ⇧  | Shift       |    Yes     |     |                |
 |  ⌘  | Command     |    Yes     |    |       No       |
 
-The Command key was formerly represented by an Apple logo.  The Apple logo is one fo the few symbols here that can be easily typed with a typical keyboard layout: <kbd>⌥⇧K</kbd>
+The Command key was previously represented by an Apple logo.  The Apple logo is one fo the few symbols here that can be easily typed with a typical keyboard layout: <kbd>⌥⇧K</kbd>
 
-There is also an <kbd>Fn</kbd> modifier on modern Mac keyboards.  Typically, this isn't seen in keyboard shortcuts because it's primarily used to access keys <kbd>F1</kbd> through <kbd>F20</kbd>.  However, it can technically be combined with <kbd>Control</kbd> plus one other key to get a unique legacy combination.  Each of these <kbd>Fn</kbd> + <kbd>Control</kbd> combinations maps to a character in Unicode's U+F700 to U+F7FF private use range.  Some programs will erroneously print these characters upon receiving such a combination.  With system Mac fonts, these characters lack visible glyphs and are for internal use only.  Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT:
+There is also an <kbd>Fn</kbd> modifier on modern Mac keyboards.  Typically, this isn't seen in keyboard shortcuts because it's primarily used to access keys <kbd>F1</kbd> through <kbd>F20</kbd>.  However, it can technically be combined with <kbd>Control</kbd> plus one other key to create a unique legacy combination.  Each of these <kbd>Fn</kbd> + <kbd>Control</kbd> combinations maps to a character in Unicode's U+F700 to U+F7FF private use range.  Some programs may mistakenly print these characters when receiving such a combination.  With system Mac fonts, these characters lack visible glyphs and are for internal use only.  Quote from ftp://ftp.unicode.org/Public/MAPPINGS/VENDORS/APPLE/CORPCHAR.TXT:
 
 > NeXT's OpenStep reserved corporate characters in the range 0xF700 to
 > 0xF8FF for transient use as keyboard function keys. The ones actually
@@ -134,7 +134,7 @@ These are the official Unicode symbol mappings published by Apple.
 
 Some entries are missing key names; these don't map to physical keys.
 
-LTR indicates usage with left-to-right languages: that means text flows from left to right, such as in most Western languages.  RTL indicates the opposite.  Many keyboards have both Delete Left and Delete Right, regardless of text direction.
+LTR indicates usage with left-to-right languages, meaning text flows from left to right, such as in most Western languages.  RTL indicates the opposite.  Many keyboards have both Delete Left and Delete Right, regardless of text direction.
 
 ISO indicates a symbol designated by an ISO standard.  ISO standard symbols aren't necessarily used by Mac.
 
